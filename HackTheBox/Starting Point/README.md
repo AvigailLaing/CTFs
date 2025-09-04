@@ -48,3 +48,6 @@ ftp -?
   * whoami, host ID should be visible in screenshots for CPTC
   * once you see something you want to download like a .txt, do get flag.txt to download it to your computer; it downloads, the file to the same directory you were in when you issued the ftp command
   * do "quit" to exit the ftp terminal
+
+# Dancing
+* upgrade HTB / connect account / create practice schedule / LEARN METASPLOIT + WinPEAS + LinPEAS 
